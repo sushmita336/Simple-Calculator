@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Merriweather', serif;
+}
+.button{
+    padding: 20px;
+    width: 50px;
+    margin: 0px 3px;
+    border-radius: 10px;
+    border: 2px solid red;
+    cursor: pointer;
+}
+.row{
+    margin: 5px 0;
+}
+.row input{
+    padding: 12px;
+    width: 192px;
+    border-radius: 15px;
+    border: 2px solid blue;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    font-size: 1.2rem;
+    margin: 0;
+}
+.long{
+    width: 112px;
+}
+
